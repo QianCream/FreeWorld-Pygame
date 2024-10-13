@@ -1,2 +1,3 @@
 # FreeWorld-Pygame
-A sandbox based on Pygame.
+
+基于 Pygame 的沙盒游戏。
